@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\bin\Debug\net7.0\EditorHtml.exe
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\bin\Debug\net7.0\EditorHtml.deps.json
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\bin\Debug\net7.0\EditorHtml.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\bin\Debug\net7.0\EditorHtml.dll
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\bin\Debug\net7.0\EditorHtml.pdb
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\obj\Debug\net7.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\obj\Debug\net7.0\EditorHtml.dll
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\obj\Debug\net7.0\refint\EditorHtml.dll
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\obj\Debug\net7.0\EditorHtml.pdb
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\obj\Debug\net7.0\EditorHtml.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Github\EditorHtml\obj\Debug\net7.0\ref\EditorHtml.dll
